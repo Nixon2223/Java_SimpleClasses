@@ -1,5 +1,5 @@
 public class WaterBottle {
-    private static int volume;
+    private int volume;
 
     public WaterBottle(){
         volume = 100;
